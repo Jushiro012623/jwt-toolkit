@@ -1,10 +1,17 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "jwt-toolkit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple JWT parser and validator",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "private": true
+  "keywords": ["jwt", "decoder", "validator", "token", "json web token","jwt toolkit"],
+  "author": "Ivan Macabontoc <ivanallen64@gmail.com> (https://github.com/Jushiro012623)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jushiro012623/infy-react-cli.git"
+  }
 }
