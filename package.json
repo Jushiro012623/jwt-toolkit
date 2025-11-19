@@ -1,5 +1,5 @@
 {
-  "name": "jwt-toolkit",
+  "name": "@ivan_devx/jwt-parser",
   "version": "1.0.0",
   "description": "Simple JWT parser and validator",
   "main": "src/index.js",
@@ -7,11 +7,22 @@
   "scripts": {
     "test": "node src/test.js"
   },
-  "keywords": ["jwt", "decoder", "validator", "token", "json web token","jwt toolkit"],
+  "keywords": [
+    "jwt",
+    "decoder",
+    "validator",
+    "token",
+    "json web token",
+    "jwt toolkit"
+  ],
   "author": "Ivan Macabontoc <ivanallen64@gmail.com> (https://github.com/Jushiro012623)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jushiro012623/infy-react-cli.git"
-  }
+    "url": "git+https://github.com/Jushiro012623/jwt-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jushiro012623/jwt-toolkit/issues"
+  },
+  "homepage": "https://github.com/Jushiro012623/jwt-toolkit#readme"
 }
