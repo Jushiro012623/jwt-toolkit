@@ -8,7 +8,7 @@ A lightweight JavaScript library for parsing, validating, and working with JSON 
 ## Installation
 
 ```bash
-npm install idex/jwt-parser
+npm i jsonwebtoken-parser
 ```
 
 ---
