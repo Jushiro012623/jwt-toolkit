@@ -1,6 +1,6 @@
 {
-  "name": "@ivan_devx/jwt-parser",
-  "version": "1.0.0",
+  "name": "@navi/jwt-parser",
+  "version": "1.0.1",
   "description": "Simple JWT parser and validator",
   "main": "src/index.js",
   "type": "module",
