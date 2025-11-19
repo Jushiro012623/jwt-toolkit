@@ -16,7 +16,7 @@ npm i jsonwebtoken-parser
 ## Importing
 
 ```js
-import { Jwt } from 'idex/jwt-parser';
+import { Jwt } from "jsonwebtoken-parser";
 ```
 
 ---
