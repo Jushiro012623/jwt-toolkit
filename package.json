@@ -1,5 +1,5 @@
 {
-  "name": "navi/jwt-parser",
+  "name": "jsonwebtoken-parser",
   "version": "1.0.1",
   "description": "Simple JWT parser and validator",
   "main": "src/index.js",
