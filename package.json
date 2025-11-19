@@ -1,6 +1,6 @@
 {
   "name": "jsonwebtoken-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple JWT parser and validator",
   "main": "src/index.js",
   "type": "module",
